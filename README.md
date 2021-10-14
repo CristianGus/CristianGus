@@ -5,6 +5,7 @@ Actualmente soy cocinero de profesión pero estoy orientando mi vida hacia una c
 #### Estudié programación en *Digital House* 🚀
 
 Mis habilidades ⚡
-HTML **</> | CSS🎨 | JavaScript **JS** | React⚛️
+
+HTML **</>** | CSS🎨 | JavaScript **JS** | React⚛️
 
 [Mi LinkedIn](https://www.linkedin.com/in/cristian-leiva-l/) 💫
