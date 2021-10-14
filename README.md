@@ -7,4 +7,4 @@ Actualmente soy cocinero de profesión pero estoy orientando mi vida hacia una c
 Habilidades⚡
 HTML | CSS | JavaScript | React
 
-Mi LinkedIn (https://www.linkedin.com/in/cristian-leiva-l//)
+[Mi LinkedIn](https://www.linkedin.com/in/cristian-leiva-l/). 
