@@ -1,7 +1,7 @@
 ### Hola! 👋
 Soy Cristian! 😄
 
-Actualmente soy cocinero de profesión pero estoy orientando mi vida hacia una carrera IT 💪
+Fuí cocinero por 10 años pero ahora estoy orientando mi vida hacia una carrera IT 💪
 #### Estudié programación en *Digital House* 🚀
 
 Mis habilidades ⚡
