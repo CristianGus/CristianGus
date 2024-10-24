@@ -1,10 +1,7 @@
 ### Hola! 👋
-Soy Cristian! 😄
+Soy Cristian
 
-Fuí cocinero por 10 años pero ahora estoy orientando mi vida hacia una carrera IT 💪
-#### Estudié programación en *Digital House* 🚀
-
-Mis habilidades ⚡
+#### Frontend Developer ####
 
 HTML **</>** | CSS🎨 | JavaScript **JS** | React⚛️
 
